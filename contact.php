@@ -60,7 +60,7 @@
   </div>
 </div>
 <div class="row">
-  <div class="col col-12 col-sm-4 col-md-4 col-lg-4">
+  <div class="col col-12 col-sm-6 col-md-6 col-lg-6">
   <br>
     <table class="table table-borderless">
       <tr>
@@ -86,11 +86,11 @@
       </tr>
     </table>
   </div>
-  <div class="col col-12 col-sm-8 col-md-8 col-lg-8">
+  <div class="col col-12 col-sm-6 col-md-6 col-lg-6">
   <br>
     <table class="table table-borderless">
       <tr>
-        <td><h4><b>CONTRACT INFO / HILLCAMPUS</b></h4></td>
+        <td><h4><b>CONTRACT INFO / HILL CAMPUS</b></h4></td>
       </tr>
       <tr>
         <td><b><p>Address:&nbsp;&nbsp;&nbsp;Rajagiri College of Social Sciences (Autonomous),</p></b>
